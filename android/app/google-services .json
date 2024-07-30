@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893160111169",
+    "project_id": "pharmapedia-c0f65",
+    "storage_bucket": "pharmapedia-c0f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893160111169:android:a6f6dc6ba5a6b283109ac0",
+        "android_client_info": {
+          "package_name": "com.example.pktech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASuZGbMtdhj5ur-wuCFafOtiMexzeBnwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
